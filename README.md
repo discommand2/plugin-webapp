@@ -1,2 +1,2 @@
-# plugin-template
-A starter template for developing new plugins, ensuring consistency and ease of development.
+# plugin-webapp
+A web-based interface allowing users to interact with the brain through a browser, integrating with the HTTP API and  WebSocket plugins for live updates.
